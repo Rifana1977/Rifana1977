@@ -9,7 +9,7 @@
   <a href="https://instagram.com/rifana" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rifana" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/rifana-k-shejir/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rifana@gmail.com" style="text-decoration:none;">
