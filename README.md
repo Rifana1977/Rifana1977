@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="text-decoration:none;">
-  <a href="https://discord.gg/rifana" style="text-decoration:none;">
+  <a href="https://discord.com/users/1152479193821630545" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://instagram.com/rifana" style="text-decoration:none;">
