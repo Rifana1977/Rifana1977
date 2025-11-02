@@ -1,22 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&color=FF5733&center=true&width=650&lines=Hey!+I'm+Rifana+K+Shejir;CS+Student+%7C+AI+%26+Robotics+Explorer&speed=2&pause=80&repeat=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&color=FF5733&center=true&width=900&lines=Hey!+I'm+Rifana+K+Shejir;CS+Student+%7C+AI+%26+Robotics+Explorer&speed=4&pause=400&repeat=true" alt="Typing SVG"/>
 </p>
+
 
 <p align="center" style="text-decoration:none;">
   <a href="https://discord.com/users/1152479193821630545" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/rifana" style="text-decoration:none;">
+  <a href="https://www.instagram.com/rifana_k_s/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rifana-k-shejir/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:rifana@gmail.com" style="text-decoration:none;">
+  <a href="mailto:rifa911skm@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Profile_Views-∞-FF5733?style=for-the-badge"/>
   </a>
 </p>
 
@@ -53,10 +51,8 @@
 ### ⚡ Tech Arsenal
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
 
