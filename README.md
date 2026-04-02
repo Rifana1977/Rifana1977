@@ -18,24 +18,55 @@
   </a>
 </p>
 
-# 💫 About Me:
-I’m a third-year Computer Science student from India with a strong interest in robotics, computer vision, and intelligent systems. I enjoy building projects that solve real-world problems.<br>Currently, I am working on an Autonomous Underwater Vehicle (AUV) for SAUVC competition.<br>I’m always looking for opportunities to learn, collaborate, and build impactful technology.
+---
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rifana1977&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rifana1977&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifana1977&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rifana1977&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 👋
+### 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐀𝐈 & 𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫 | 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🦾
+- 3rd-year CSE student @ MITS 🎓
+- Passionate about Robotics & Autonomous Systems
+- Exploring Computer Vision, AI & Deep Learning 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rifana1977&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚙️ Work in Progress
+<p align="center">
+<table>
+  <tr>
+    <th>Project Focus</th>
+    <th>Status & Goal</th>
+  </tr>
+  <tr>
+    <td>🌊 <b>Underwater ROV for Waste Collection</b></td>
+    <td>[Prototype Stage] - Building an autonomous underwater drone for waste detection & collection.</td>
+  </tr>
+  <tr>
+    <td>👁️ <b>EYEZORA (Exam Monitoring System)</b></td>
+    <td>[Currently Working On] - Developing a real-time exam monitoring solution with AI & CV.</td>
+  </tr>
+</table>
+</p>
+
+---
+
+### ⚡ Tech Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifana&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rifana&theme=radical&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifana&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=rifana&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
